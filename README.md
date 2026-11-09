@@ -1,4 +1,4 @@
-# FINDIT 2025 — Klasifikasi Wajah dengan CNN
+# FINDIT 2025 | Klasifikasi Wajah dengan CNN | Tim Proyek 2026 Bahagia
 
 ![Sertif Peserta](aset1.png)
 
