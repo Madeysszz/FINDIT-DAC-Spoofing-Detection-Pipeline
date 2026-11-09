@@ -1,5 +1,6 @@
 # FINDIT 2025 | Klasifikasi Wajah dengan CNN | Tim Proyek 2026 Bahagia
 
+![LB](aset2.png)
 ![Sertif Peserta](aset1.png)
 
 Notebook eksperimen untuk lomba FINDIT 2025 yang mengklasifikasikan citra wajah ke dalam enam kelas: wajah manusia asli dan lima kategori wajah palsu. Pendekatan yang digunakan adalah transfer learning dengan **ResNet50** dan **EfficientNet-V2-S**, kemudian menggabungkan probabilitas kedua model untuk menghasilkan prediksi submission.
